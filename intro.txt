@@ -1,0 +1,25 @@
+why products fail:
+product doesnt meet customer need better than alts
+need product market fit
+people struggle with application of lean startup concepts
+eg gym: signup, go, but unsure what to do
+
+product-market fit pyramid:
+1. the target customer
+2. the customer's underserved needs
+
+***THE PRODUCT-MARKET FIT***
+
+3. value proposition
+4. product feature set
+5. product UX
+
+The lean product process (6 steps):
+1. determine the target customers
+2. identify underserved customer needs
+3. define the value proposition
+4. select the MVP feature set
+5. create MVP
+6. test MVP with customers
+
+
