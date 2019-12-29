@@ -1,0 +1,34 @@
+product market fit critical to success
+
+## the only thing that matters:
+product-market fit means being in a good market with a product that can satisfy that market. 
+
+your product must create signficant customer value: meeting customer needs and does it better than the alternatives.
+
+creating value != capturing value
+to catpure value, you must create it first.
+
+product market fit pyramid: each layer depends on the first layer below it.
+eg ux depends on feature set, and underserved needs depends on the target customer.
+product depends on market
+
+## the market:
+made of all existing and potential customers that have a need/related needs. eg all the people in the us who need to do imcome tax are in the tax prep market.
+
+### market size:
+the # of customers or total revenue generated from those customers
+
+can make new market or innovate in existing marekts. good market opportunity means customers are not extremely happy with the existing product. customers judge your product wrt existing competition.
+
+## your product
+a specific offering inteded to meet a set of customer needs (product or service).
+product: physical good
+service: intangible
+
+UX brings product functionality to life
+
+Quicken used usability stuides to guide software development
+
+Lean product process helps flesh out the assumptions and hypotheses floating in your head
+
+Rework: fixing somehting that was not built well the first time. Minimize rework to minimize waste. Rework is inevitable, but hypotheses, design, and product will change as progress in work.
