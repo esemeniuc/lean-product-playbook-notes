@@ -1,0 +1,42 @@
+Problem space vs solution space
+
+products you build exist in solution space, incl prototypes, or products used by customer. 
+
+customer needs are the problem space, eg customer pain point, desire, job, user storey.
+
+## the space pen
+thinking of recording notes in space, one could think of a pen. lots of money was spent on making a pen usable in space. the myth is that the russians used pencils, saving lots of r&d cost, and "thinking out side the box". One can ask for a writing instrument in the solution space, which allows for pencils, but is still constraining. 
+
+A note taking tool would allow for things like voice notes, but that would be less freeform, and not allow for easy scanning, or be electricity-free.
+
+## problems define markets
+what is the competitor to turbo tax: pen and paper, tax accountants, other software.
+the solution space is tax prepration.
+
+- write product requirements without falling into the solution space
+-- focus on the what before going into the how.
+--- what: the product benefits given to the consumer, problem space
+--- how: how the product delivers the "what" to the consumer, solution space
+
+## outside-in product development
+inside==company, outside==customers+market
+
+inside out: allows a team to misunderstand the problem space. eg. employees come up with idea of what's good to build, it is not checked with customers to see if it solves the problem.
+
+talk to customers to avoid not understandig the problem, GET OUT OF THE BUILDING (GOOB).
+
+outside: understanding the customer's problem space, what they like and don't like about current solutions. forms a robhust problem space understanding before designing the product. involes sharing hypotheses and getting customer feedback to test these ideas (user centered design).
+
+## should you listen to customers
+henry ford: if i asked people what they wanted, they would say a faster horse
+
+henry ford and steve jobs used inside-out methods to build the next breakthrough.
+don't expect customers to come up with a breakthrough, but the above sentence isn't an excuse to avoid talking to customers, since the understanding gained helps one come up with new ideas.
+
+steve jobs: you must start with the customer experience and work backwards to the technology
+
+## using the solution space to discover the problem space
+product team must extract abstract benefits and relative importance.
+observe customer pain points. customers are very good about giving feedback in solution space. feedback from solution space allows testing of problem space hypothesis
+
+"customers dont care about your solution. they care about their problems"
