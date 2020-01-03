@@ -1,0 +1,70 @@
+# define your target customer
+
+## fishing for customers
+- matching a product with a customer is lke fishing
+-- product=bait, customer=fish
+-- can catch unexpected fish
+-- only can test hypothesis by throwing bait out into the market
+
+- eg. quicken for individuals was repurposed as customers reused it
+-- move up and down market
+-- eg. use course mgmt software for professional training as upmarket move
+
+## how to segment your market
+- firmographics: demographics for firms
+-- see SIC and NAICS
+
+### segmentation types
+- demographic (age gender income)
+- psychographic (attitudes opinions values interests), makes demographics incidental, eg moms -> women
+- behavioral (how often an action is taken, eg trading stocks)
+- needs (feature can cost extra due to need, eg cloud backup monthly fee)
+
+## users vs buyers
+- end user != buyer
+-- salesforce bought by VP of sales, purchase decision by CTO, used by salespeople
+
+## tech life cycle
+1. innovaters (enthusiasts love being on the cutting edge)
+2. early adopters (motivation is gaining an edge, not love)
+3. early majority (pragmatists, they wait for the path to be forged)
+4. late majority (doubt utility of new tech, adopt only when pressured, eg financial cost, competiton, old stuff being unsupported)
+5. laggards (skeptic of innovation, hate change)
+
+The chasm exists between early adopters and early majority
+
+## personas
+"a precise definition of our user and what they wish to accomplish"
+- used as a target customer
+-- the fact that it will be written down, discussed, and shared helps everyone be on same page
+- helps product team choose important features for good ux, providing foundation and reasoning
+- each team member makes small individual choices, persona allows more congruent and additive work rather than discorddant and counterproductive
+
+### persona details
+- name
+- photo
+- important quote about person
+- job title
+- demographics
+- needs/goals
+- relevant motivations and attitudes
+- pain points in current solution
+- level of relevant knowledge
+- product usage environment (office/couch/coffee shop)
+- tech lifestyle classification
+- other relevant attributes
+
+their photo and quote bring them to life
+
+## how to create personas
+- do not use average data, us fighter pilot example
+- use surveys or customer discover intervivews
+- revise persona after talking with customer
+
+## potential problems with personas
+- persona is a first draft that gets iterated on
+- refer to persona during discussions, proposals, and decisions
+- never replace customer with persona, keep conversation going
+- create new personas if your product is attracting different types of customers
+- talking with passionate custoers (eg those who post on fb, ig) will help sharpen hypothesis about target market, and what problems your solution helps solve
+
